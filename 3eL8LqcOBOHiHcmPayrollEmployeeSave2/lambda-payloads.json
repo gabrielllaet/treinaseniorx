@@ -1,0 +1,334 @@
+{
+    "3eL8LqcOBOHiHcmPayrollEmployeeSave2": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "Bearer 5a9722e802e597f9946c8a81d7e0ea11"
+            },
+            "body": {
+                "sheetContract": {
+                    "admissionOriginType": {
+                        "key": "NORMAL",
+                        "value": "Normal"
+                    },
+                    "hireDate": "2020-11-01",
+                    "registernumber": "123",
+                    "hireType": {
+                        "key": "Reemprego",
+                        "value": "2 - Reemprego"
+                    },
+                    "situation": {
+                        "tableId": "AE681F19AB3247389355E9D3A2A7EE53",
+                        "name": "1 - Trabalhando",
+                        "Code": "1",
+                        "Name": "Trabalhando",
+                        "Trackingtype": "TYPE_01_WORKING",
+                        "ReturnExamination": "false",
+                        "SituationDaysJustified": "0",
+                        "ESocialReasonType": "TYPE_0"
+                    },
+                    "movimentationReason": {
+                        "tableId": "5470E44479BA412FAABC421E811DC47A",
+                        "name": "1 - Admissão",
+                        "MovimentationreasonCode": "1",
+                        "MovimentationreasonNameI18n": "Admissão"
+                    },
+                    "eSocialAdmissionType": {
+                        "key": "TYPE_01",
+                        "value": "Admissão"
+                    },
+                    "categoryESocial": {
+                        "key": "Category_101",
+                        "value": "101 - Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT"
+                    },
+                    "eSocialStartDate": "2020-11-01",
+                    "sefipCategoryType": {
+                        "key": "TYPE_01",
+                        "value": "Empregado"
+                    },
+                    "sefipStartDate": "2020-11-01",
+                    "unemploymentInsuranceType": {
+                        "key": "NOT_CONSULTED",
+                        "value": "Não consultado"
+                    },
+                    "appearsinRais": "true",
+                    "raisDepartment": {
+                        "tableId": "CDDC0F3F2D8E4389933D8A046F1369FB",
+                        "name": "BLUMENAU",
+                        "CityNameI18n": "BLUMENAU"
+                    },
+                    "actingType": {
+                        "tableId": "E42B3B41B8574523A74F198C390FA243",
+                        "name": "1 - Atuação Principal",
+                        "ActingtypeCode": "1",
+                        "ActingtypeNameI18n": "Atuação Principal"
+                    },
+                    "employeeType": {
+                        "key": "EMPLOYEE",
+                        "value": "1 - Colaborador"
+                    },
+                    "employmentRelationship": {
+                        "tableId": "5B6C27FF1D70437EA5F7B50D203FC9F8",
+                        "name": "10 - Trb.Urb,Emp.Jur,CLT",
+                        "EmploymentRelationshipCode": "10",
+                        "EmploymentRelationshipNameI18n": "Trb.Urb,Emp.Jur,CLT",
+                        "EmploymentRelationshipRais": "Type_10"
+                    },
+                    "employmentRelationshipStartDate": "2020-11-01",
+                    "duration": 90,
+                    "extension": 0,
+                    "endDate": "2021-01-29",
+                    "customFieldsEmployee": [
+                        {
+                            "field": "usuTrustPosition",
+                            "value": null
+                        }
+                    ],
+                    "customFieldsHistoricalExpenseNature": []
+                },
+                "sheetDocument": {
+                    "cpfNumber": "74985708070",
+                    "pisNumber": "76631647830",
+                    "pisIssuanceDate": "2002-01-01",
+                    "customFieldsRg": []
+                },
+                "sheetFinancial": {
+                    "payType": {
+                        "key": "Monthly",
+                        "value": "Mensal"
+                    },
+                    "payMode": {
+                        "key": "BankRelationship",
+                        "value": "Relação bancária"
+                    },
+                    "receivesThirteenthSalary": "true",
+                    "receivesSalaryAdvance": "false",
+                    "bank": {
+                        "tableId": "D31709D499B1438E8266CD6367ADF8FE",
+                        "name": "1 - Banco do Brasil",
+                        "BankCode": "1",
+                        "BankNameI18n": "Banco do Brasil"
+                    },
+                    "bankBranch": {
+                        "tableId": "AA7803A184C24294AD0D060647603283",
+                        "name": "1 - CENTRO",
+                        "BankBranchCode": "1",
+                        "BankBranchNameI18n": "CENTRO"
+                    },
+                    "accountType": {
+                        "key": "CurrentAccount",
+                        "value": "1 - Conta Corrente"
+                    },
+                    "accountNumber": "1234",
+                    "accountDigit": "5",
+                    "fgtsInterestRate": 3,
+                    "fgtsOptingDate": "2020-11-01",
+                    "optingForFGTS": "true",
+                    "customFieldsAccount": [],
+                    "useHistoricalBankAccount": false,
+                    "hireDate": "1900-01-01"
+                },
+                "sheetInitial": {
+                    "company": {
+                        "tableId": "53C1B801CBBC4694B4BDBB952E1A158F",
+                        "name": "1 - Demonstra Ind.& Com. Têxtil S/A",
+                        "CompanyCode": "1",
+                        "CompanyCompanyname": "Demonstra Ind.& Com. Têxtil S/A"
+                    },
+                    "contractNationality": {
+                        "key": "National",
+                        "value": "1 - Nacional"
+                    },
+                    "contractType": {
+                        "key": "Employee",
+                        "value": "1 - Empregado"
+                    },
+                    "person": {
+                        "tableId": "new",
+                        "name": "JOSE DA SILVA SAURO"
+                    },
+                    "admissionDraftId": "C498B82A37A044B085053F90BBDA441E"
+                },
+                "sheetPersona": {
+                    "nickname": "DINO",
+                    "gender": {
+                        "key": "Male",
+                        "value": "Masculino"
+                    },
+                    "birthday": "1981-04-23",
+                    "maritalStatus": {
+                        "key": "Single",
+                        "value": "1 - Solteiro"
+                    },
+                    "degreeOfEducation": {
+                        "tableId": "1DDD824DD2A646599A983E1819945D66",
+                        "name": "13 - Ph.D.",
+                        "EducationdegreeCode": "13",
+                        "EducationdegreeNameI18n": "Ph.D."
+                    },
+                    "nationality": {
+                        "tableId": "90999E5B52C548BA9B61819EB6DF7C0F",
+                        "name": "10 - Brasileiro",
+                        "NationalityCode": "10",
+                        "NationalityNameI18n": "Brasileiro"
+                    },
+                    "race": {
+                        "key": "NotInformed",
+                        "value": "0 - Não informado"
+                    },
+                    "isDisability": "false",
+                    "isOccupantQuota": "false",
+                    "customFieldsPerson": []
+                },
+                "sheetPlace": {
+                    "workstationGroup": {
+                        "tableId": "13B06CE94F9C40EF83036F34EED689BB",
+                        "name": "ADM002 - Administrador de Compras"
+                    },
+                    "branch": {
+                        "tableId": "E3CA835E488E4FC4847BB6E7C1C2EB8C",
+                        "name": "1 - Demonstra S/A - Matriz"
+                    },
+                    "costCenter": {
+                        "tableId": "AA43450045FE4A72ACEEB08A9DE90551",
+                        "name": "14 - Administrativo"
+                    },
+                    "department": {
+                        "tableId": "A36875357B564C15932EE63C44A7A3CD",
+                        "name": "1.02 - Administração"
+                    },
+                    "jobPosition": {
+                        "tableId": "6F082A055D664241AF4CF43EA86D6CD6",
+                        "name": "11 - Auxiliar Administrativo"
+                    },
+                    "workstationGroupStartDate": "2020-11-01",
+                    "branchStartDate": "2020-11-01",
+                    "costCenterStartDate": "2020-11-01",
+                    "departmentStartDate": "2020-11-01",
+                    "jobPositionStartDate": "2020-11-01",
+                    "customFieldsHistoricalWorkstation": [],
+                    "customFieldsHistoricalCostCenter": [],
+                    "customFieldsHistoricalJobPosition": [],
+                    "customFieldsHistoricalCompanyBranch": [],
+                    "customFieldsHistoricalDepartment": []
+                },
+                "sheetSalary": {
+                    "salaryType": {
+                        "key": "Hourly",
+                        "value": "Horista"
+                    },
+                    "wageScale": {
+                        "tableId": "6099C9CD27304129BF87B02D60FFC766",
+                        "name": "Comércio",
+                        "WagescaleName": "Comércio"
+                    },
+                    "wageClass": {
+                        "tableId": "4FB9BDCD8AA7487D996F61B5A7ABA1B9",
+                        "name": "VEN",
+                        "WageclassName": "VEN"
+                    },
+                    "wageLevel": {
+                        "tableId": "AE752AEA8FA2489C9CBA8BA7E71343D9",
+                        "name": "1",
+                        "WagelevelName": "1"
+                    },
+                    "salary": "602.25",
+                    "customFieldsHistoricalSalary": []
+                },
+                "sheetSyndicate": [
+                    {
+                        "syndicate": {
+                            "tableId": "CDCC6A2A99964F4B924491CC193CF967",
+                            "name": "1 - Sind. Indústria Blumenau",
+                            "SyndicateCode": "1",
+                            "SyndicateNameI18n": "Sind. Indústria Blumenau"
+                        },
+                        "isMainSyndicate": true,
+                        "isUnionized": false,
+                        "isAssistanceFee": false,
+                        "isCosting": false,
+                        "isReversion": false,
+                        "syndicateStartDate": "2020-11-01"
+                    }
+                ],
+                "sheetWorkSchedule": {
+                    "workshiftStartDate": "2020-11-01",
+                    "workshift": {
+                        "tableId": "5D15F40DA3F04433A9835614CF781EB2",
+                        "name": "15 - 12:00 18:00-Geração Automática",
+                        "WorkshiftCode": "15",
+                        "WorkshiftDescriptionI18n": "12:00 18:00-Geração Automática",
+                        "WorkshiftWorkshiftType": "AutomaticGeneration"
+                    },
+                    "workshiftGroup": {
+                        "tableId": "0C694F37D7884262A48191CEC052075E",
+                        "name": "1",
+                        "WorkshiftGroupCode": "1",
+                        "WorkshiftGroupWorkshift": "5D15F40DA3F04433A9835614CF781EB2"
+                    },
+                    "scaleTeam": {
+                        "tableId": "746A872372DF470784A0D16F601C948D",
+                        "name": "1 - CORPO DOCENTE",
+                        "ScaleTeamCode": "1",
+                        "ScaleTeamNameI18n": "CORPO DOCENTE"
+                    },
+                    "scaleCategory": {
+                        "tableId": "B2FC43F1C81949CB8C03BDF37F1EE2BD",
+                        "name": "4 - COORDENADORES",
+                        "ScaleCategoryCode": "4",
+                        "ScaleCategoryNameI18n": "COORDENADORES"
+                    },
+                    "customFieldsHistoricalWorkshift": []
+                },
+                "sheetOtherContract": {
+                    "otherContractType": {
+                        "key": "SINGLE_CONTRACT",
+                        "value": "Contrato único"
+                    },
+                    "customFieldsOtherContract": []
+                },
+                "sheetEntries": {},
+                "sheetComplement": {
+                    "retirementType": null,
+                    "retirementDate": null,
+                    "taxExemption": null,
+                    "movementSefipRetirement": null,
+                    "transportationVoucherScale": null,
+                    "pointEmbarkation": null,
+                    "transportationVoucherStartDate": null,
+                    "healthAndSafety": {
+                        "lastMedicalExaminationDate": null,
+                        "nextMedicalExaminationDate": null
+                    },
+                    "healthPlan": {
+                        "healthPlanType": null,
+                        "healthPlanCode": null,
+                        "registrationCode": null,
+                        "inclusionDate": null,
+                        "exclusionDate": null,
+                        "healthplanCode": null
+                    },
+                    "qualificationStructure": {
+                        "qualification": null,
+                        "wagescale": null,
+                        "wageclass": null,
+                        "wagelevel": null
+                    },
+                    "badge": null,
+                    "issueDotCard": {
+                        "key": "Yes",
+                        "value": "Sim"
+                    },
+                    "controlPoint": {
+                        "key": "TYPE_4",
+                        "value": "Não Conta"
+                    },
+                    "deleteClockingEventType": null,
+                    "customFieldsHistoricalTransportationVoucherScale": [],
+                    "customFieldsRetirement": [],
+                    "healthPlanType": null
+                },
+                "shouldSaveDependents": false
+            }
+        }
+    }
+}

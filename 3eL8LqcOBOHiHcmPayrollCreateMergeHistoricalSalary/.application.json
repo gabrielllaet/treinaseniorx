@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "3eL8LqcOBOHiHcmPayrollCreateMergeHistoricalSalary": {
+            "PhysicalId": {
+                "us-east-1": "3eL8LqcOBOHiHcmPayrollCreateMergeHistoricalSalary"
+            }
+        }
+    }
+}

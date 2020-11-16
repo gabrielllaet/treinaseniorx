@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "3eL8LqcOBOHiRN7IY19Q": {
+            "PhysicalId": {
+                "us-east-1": "3eL8LqcOBOHiRN7IY19Q"
+            }
+        }
+    }
+}

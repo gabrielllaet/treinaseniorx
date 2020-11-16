@@ -1,0 +1,33 @@
+{
+    "3eL8LqcOBOHiHcmPayrollCreateMergeDismissalMovimentation": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "bearer 304e5dd4c34b241e2f8d0dc60fab8a72"
+            },
+            "body": {
+                "id": "6ECBFD4F4579599F8CAF824C1D13E501",
+                "dateWhen": "2021-01-01",
+                "payday": "2021-01-08",
+                "employee": {
+                    "id": "8E14FC78411A4CC494038FF600316BC1"
+                },
+                "workedDays": "1",
+                "resignationReason": {
+                    "id": "5C6AA33AADA248ACB0D49D0F4AD45CDF"
+                },
+                "dismissalReason": {
+                    "id": "3FC9315D7475401B96757B54C41BBF50"
+                },
+                "dateOfNotice": "2021-01-01",
+                "indemnifiedNoticeDays": 30,
+                "additionalDaysIndemnifiedNotice": 3,
+                "revisedNoticeDays": 30,
+                "additionalDaysRevisedNotice": 3,
+                "balanceAccountFGTS": 10,
+                "replacementOfVacancy": "false",
+                "pensionFGTS": "false",
+                "dischargeTerm": "NOT_APPLICABLE"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "3eL8LqcOBOHiHcmPayrollCreateMergeHistoricalSalary": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "Bearer 5a9722e802e597f9946c8a81d7e0ea11"
+            },
+            "body": {
+                "id": "2424A3F3B48F5620BD0760C3F721CA24",
+                "dateWhen": "2020-01-01",
+                "employee": {
+                    "id": "84B4CB24A43B489CBA6E6B6A24C2B81F"
+                },
+                "salaryType": "Monthly",
+                "wageLevel": {
+                    "id": "A58A65FA7BF94AAA8848107F2B9D848A"
+                },
+                "valueCrypto": "4380.00",
+                "movimentationReason": {
+                    "id": "5470E44479BA412FAABC421E811DC472"
+                },
+                "custom": {}
+            }
+        }
+    }
+}
